@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eliminar Datos - Lab06-IoT</title>
+    <meta charset="UTF-8">
+</head>
+<body style="font-family: Arial; margin: 40px; line-height: 1.6;">
+    <h1>Solicitud de Eliminación de Datos</h1>
+    
+    <h2>¿Cómo eliminar tus datos?</h2>
+    <p>Para solicitar la eliminación de tus datos de nuestra aplicación Lab06-IoT:</p>
+    
+    <ol>
+        <li>Envía un email a: <strong>adrianfreetime0512@gmail.com</strong></li>
+        <li>Incluye en el asunto: "Eliminar datos - Lab06-IoT"</li>
+        <li>Menciona el email asociado a tu cuenta de Facebook</li>
+    </ol>
+    
+    <h2>Tiempo de procesamiento</h2>
+    <p>Procesaremos tu solicitud en un máximo de 48 horas.</p>
+    
+    <h2>¿Qué datos se eliminan?</h2>
+    <p>Eliminaremos toda la información asociada a tu cuenta:</p>
+    <ul>
+        <li>Datos de perfil de Facebook</li>
+        <li>Información de sesiones</li>
+        <li>Cualquier dato almacenado en la aplicación</li>
+    </ul>
+</body>
+</html>
