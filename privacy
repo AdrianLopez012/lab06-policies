@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Política de Privacidad - Lab06-IoT</title>
+    <meta charset="UTF-8">
+</head>
+<body style="font-family: Arial; margin: 40px; line-height: 1.6;">
+    <h1>Política de Privacidad - Lab06-IoT</h1>
+    <p><strong>Última actualización:</strong> Junio 2025</p>
+    
+    <h2>Información que recopilamos</h2>
+    <p>Esta aplicación recopila únicamente la información básica de Facebook necesaria para la autenticación:</p>
+    <ul>
+        <li>Nombre público</li>
+        <li>Email</li>
+        <li>ID de usuario de Facebook</li>
+    </ul>
+    
+    <h2>Uso de la información</h2>
+    <p>La información se usa exclusivamente para:</p>
+    <ul>
+        <li>Permitir el acceso a la aplicación</li>
+        <li>Identificar al usuario dentro de la app</li>
+    </ul>
+    
+    <h2>Compartir información</h2>
+    <p>No compartimos tu información personal con terceros.</p>
+    
+    <h2>Contacto</h2>
+    <p>Para dudas sobre esta política: adrianfreetime0512@gmail.com</p>
+</body>
+</html>
